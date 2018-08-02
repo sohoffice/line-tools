@@ -17,11 +17,11 @@ setuptools.setup(
         'console_scripts': ['lt-rhythm=linetools.build_richmenu:main'],
     },
     install_requires=[
-        'urllib3==1.23',
+        'urllib3==1.23'
     ],
     classifiers=(
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
-        "Operating System :: OS Independent",
+        "Operating System :: OS Independent"
     ),
 )
