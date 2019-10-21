@@ -17,7 +17,7 @@ setuptools.setup(
         'console_scripts': ['lt-rhythm=linetools.build_richmenu:main'],
     },
     install_requires=[
-        'urllib3==1.23'
+        'urllib3==1.24.2'
     ],
     classifiers=(
         "Programming Language :: Python :: 3",
